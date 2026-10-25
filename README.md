@@ -1,0 +1,22 @@
+# Web-sovelluskehitys - Viikko 1
+
+
+## Recap 1
+* [Assignment 1](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap1/T1/assignment1.html)
+* [Assignment 2](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap1/T2/assignment2.html)
+* [Assignment 3](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap1/T3/assignment3.html)
+* [Assignment 4](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap1/T4/assignment4.html)
+* [Assignment 5](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap1/T5/assignment5.html)
+* [Assignment 6](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap1/T6/assignment6.html)
+
+## Recap 2
+* [Assignment 1](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap2/T1/assignment1.html)
+* [Assignment 2](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap2/T2/assignment2.html)
+* [Assignment 3](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap2/T3/assignment3.html)
+* [Assignment 4](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap2/T4/assignment4.html)
+* [Assignment 5](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap2/T5/assignment5.html)
+* [Assignment 6](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap2/T6/assignment6.html)
+
+## Yhteenveto ja pisteet
+* Tehdyt tehtävät: Viikko 1 (Recap 1 & 2) tehty
+* Yht: 40 p
