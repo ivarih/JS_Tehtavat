@@ -25,15 +25,15 @@
 
 
 ## DOM
-- [Assignment 1](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap3/dom-assignments/dom-assignments/t1/t1.html)
+- [Assignment 1](https://users.metropolia.fi/~ivarih/Recap3/dom-assignments/t1/t1.html)
 
-- [Assignment 2](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap3/dom-assignments/dom-assignments/t2/t2.html)
+- [Assignment 2](https://users.metropolia.fi/~ivarih/Recap3/dom-assignments/t2/t2.html)
 
-- [Assignment 3](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap3/dom-assignments/dom-assignments/t3/t3.html)
+- [Assignment 3](https://users.metropolia.fi/~ivarih/Recap3/dom-assignments/t3/t3.html)
 
-- [Assignment 4](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap3/dom-assignments/dom-assignments/t4/t4.html)
+- [Assignment 4](https://users.metropolia.fi/~ivarih/Recap3/dom-assignments/t4/t4.html)
 
-- [Assignment 5](https://users.metropolia.fi/~ivarih/wsk-2026/Week1/Tehtävät1Week/Recap3/dom-assignments/dom-assignments/t5/t5.html)
+- [Assignment 5](https://users.metropolia.fi/~ivarih/Recap3/dom-assignments/t5/t5.html)
 
 
 ## Yhteenveto ja pisteet
