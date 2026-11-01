@@ -21,10 +21,11 @@
 * Tehdyt tehtävät: Viikko 1 (Recap 1 & 2) tehty
 * Yht: 40 p
 
+
 # Web-sovelluskehitys - Viikko 2
 
 
-## DOM
+## Recap 3
 - [Assignment 1](https://users.metropolia.fi/~ivarih/Recap3/dom-assignments/t1/t1.html)
 
 - [Assignment 2](https://users.metropolia.fi/~ivarih/Recap3/dom-assignments/t2/t2.html)
@@ -36,7 +37,13 @@
 - [Assignment 5](https://users.metropolia.fi/~ivarih/Recap3/dom-assignments/t5/t5.html)
 
 
-## Yhteenveto ja pisteet
-- Tehdyt tehtävät: DOM (Tehtävät 1–5) tehty
+## Recap 4
+- [Assignment 1](https://users.metropolia.fi/~ivarih/Recap4/event-assignments/t1/t1.html)
 
-- Yht: 22 p
+- [Assignment 2](https://users.metropolia.fi/~ivarih/Recap4/event-assignments/t2/t2.html)
+
+
+## Yhteenveto ja pisteet
+- Tehdyt tehtävät: Viikko 2 (Recap 3 & 4) tehty
+
+- Yht: 46 p
